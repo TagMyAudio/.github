@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="#downloads"><img alt="Download for macOS" src="https://img.shields.io/badge/Download-macOS-111827?style=for-the-badge&logo=apple&logoColor=white"></a>
-  <a href="#downloads"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white"></a>
+  <a href="https://github.com/TagMyAudio/TagMyAudio/releases/tag/v1.8.6"><img alt="Download for macOS" src="https://img.shields.io/badge/Download-macOS-111827?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://github.com/TagMyAudio/TagMyAudio/releases/tag/v1.8.6"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white"></a>
 </p>
 
 <p align="center">
